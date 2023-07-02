@@ -1,0 +1,69 @@
+.redesign{
+  background-color: #000A1F;
+  width: 100%;
+  height:8863px;
+  justify-content: center;
+  display: block;
+}
+.nav-bar{
+  background-color: #000a1f;
+  overflow: hidden;
+  justify-content: center;
+}
+.nav{
+  height:300px;
+  width: 3000px;
+  position:absolute;
+  margin: auto;
+  padding: 10px;
+  top:10%;
+  left: 25%;
+}
+.mainlogo{
+  width: 350px;
+  height: 159px;  
+}
+.victor{
+  margin-left: 60px;
+  height: 90px;
+}
+.btn{
+  background-color: #000A1F;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-size: 80px;
+  margin-left: 90px;
+  align-items: center;
+  justify-content: center;
+}
+.heading{
+  width: 3500px;
+  height: 1500px;
+  margin-left: 28%;
+  margin-top: 18%;
+}
+.headtext{
+  color: aliceblue;
+  font-size: 150px;
+  display: inline-block;
+}
+.content{
+  display: inline-block;
+}
+.object{
+}
+.paragraph{
+  color: aliceblue;
+  font-size: 70px;
+}
+.imgman{
+  height: 1200px;
+  margin-left: 1900px;
+  width: 40%;
+}
